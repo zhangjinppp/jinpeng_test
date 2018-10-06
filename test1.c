@@ -6,7 +6,7 @@ int main()
   int g=3;
   int d=5;
   int d=4;
-  int g=3;
+  int g=9;
   printf("%d ",a);
   return 0;
 }
