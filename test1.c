@@ -6,6 +6,7 @@ int main()
   int k=3;
   int b=4;
   int dk=1;
+  int dk=2;
   printf("%d ",a);
   return 0;
 }
